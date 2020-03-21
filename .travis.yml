@@ -2,4 +2,4 @@ language: node_js
 node_js:
   - "10.19.0"
 script:
-  - ng build --aot --prod
+  - yarn build
